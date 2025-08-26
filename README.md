@@ -168,16 +168,16 @@ This repository contains the complete implementation of an advanced **insider th
 ### **Prerequisites**
 ```bash
 Python 3.10.9
-15.7GB RAM (recommended)
+16GB RAM (recommended)
 12 CPU cores (optimal)
 100GB+ disk space
 ```
 
 ### **Quick Start**
 ```bash
-# Clone the repository
-git clone https://github.com/your-username/RIK-Insider-Threat-Detection.git
-cd RIK-Insider-Threat-Detection
+# Download the repository
+https://github.com/your-username/RIK-Insider-Threat-Detection.git
+download and extract the zip file
 
 # Set up virtual environment
 python -m venv rik-env
