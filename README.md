@@ -176,7 +176,7 @@ Python 3.10.9
 ### **Quick Start**
 ```bash
 # Download the repository
-https://github.com/your-username/RIK-Insider-Threat-Detection.git
+https://myntuac-my.sharepoint.com/:u:/g/personal/n1334679_my_ntu_ac_uk/EfcNyYYbFU5Biw6EQq8_YvUBz4qD8KHsdNNRYEqZQN8TUw?e=Tc4Ish
 download and extract the zip file
 
 # Set up virtual environment
@@ -206,10 +206,6 @@ jupyter notebook notebooks/Unlabled/train_isolation_forest.ipynb
 ---
 
 ## Documentation
-
-### **Academic Documentation**
-- **[Complete Thesis](report/Formative%20Course%20Major%20Project.docx)**: Full academic report with methodology and results
-- **[Database](report/resources/Formative%20Course%20Major%20Project%20Chapter%201.txt)**: Access the entire database including datasets, python virtual environment, outputs and checkpoints.
 
 ### **Technical Details**
 - **Data Processing**: 26.2GB multi-modal behavioral data processing
