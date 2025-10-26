@@ -16,7 +16,7 @@
 This repository contains the complete implementation of an advanced **insider threat detection system** developed as part of an MSc Cybersecurity thesis at Nottingham Trent University. The project addresses critical gaps in current Security Information and Event Management (SIEM) systems by implementing **explainable AI techniques** to reduce "alert fatigue" while maintaining high precision in threat detection.
 
 ### Key Innovation
-- **Perfect Precision**: Achieved 100% precision across 10 specialized machine learning models
+- **Perfect Precision**: Achieved 100% precision across specialized machine learning model
 - **Explainable AI Integration**: Complete SHAP explanations for every threat detection
 - **Human-Centered Design**: Supports rather than replaces SOC analysts
 - **Large-Scale Processing**: Successfully processed 26.2GB of behavioral data across 11,715+ files
